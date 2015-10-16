@@ -1,0 +1,28 @@
+{
+  "name": "zhufengshop",
+  "version": "1.0.0",
+  "description": "this is test shop",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zhuhuijun/zhufengnode"
+  },
+  "keywords": [
+    "shop",
+    "node",
+    "express",
+    "bower"
+  ],
+  "author": "zhuhj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuhuijun/zhufengnode/issues"
+  },
+  "homepage": "https://github.com/zhuhuijun/zhufengnode",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}

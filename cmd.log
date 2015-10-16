@@ -1,0 +1,24 @@
+mkdir zhufengshop
+cd zhufengshop
+npm init
+ls
+mkdir app
+ls
+touch .bowerrc
+bower init
+bower install bootstrap
+bower install angular angular-route --save
+doskey /history >>cmd.log
+mkdir zhufengshop
+cd zhufengshop
+npm init
+ls
+mkdir app
+ls
+touch .bowerrc
+bower init
+bower install bootstrap
+bower install angular angular-route --save
+doskey /history >>cmd.log
+bower install bootstrap --save
+doskey /history >>cmd.log
