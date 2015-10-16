@@ -22,3 +22,26 @@ bower install angular angular-route --save
 doskey /history >>cmd.log
 bower install bootstrap --save
 doskey /history >>cmd.log
+mkdir zhufengshop
+cd zhufengshop
+npm init
+ls
+mkdir app
+ls
+touch .bowerrc
+bower init
+bower install bootstrap
+bower install angualr angular-route --save
+bower install angular angular-route --save
+doskey /history >>cmd.log
+bower install bootstrap --save
+doskey /history >>cmd.log
+git init
+ git remote add origin https://github.com/zhuhuijun/zhufengnode.git
+git push -u origin master
+git add .
+git commit -m'添加文件到历史区'
+git push -u origin master
+cdkeys /history >>cmd.log
+doskeys /history >>cmd.log
+doskey /history >>cmd.log
