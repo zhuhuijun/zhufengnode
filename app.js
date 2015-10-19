@@ -15,6 +15,7 @@ mongoose.connect('mongodb://127.0.0.1:28017/nodeshop');
 
 
 var users = require('./routes/users');//用户路由
+var wares = require('./routes/wares');//用户路由
 var app = express();
 
 //============================================================
@@ -45,6 +46,6 @@ app.use(flash());
 
 /**路由*/
 app.use('/users', users);
-
+app.use('/wares', wares);
 
 app.listen(8080);
